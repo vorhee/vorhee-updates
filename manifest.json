@@ -1,7 +1,7 @@
 {
   "version": "1.3",
   "downloadUrl": "https://github.com/vorhee/vorhee-updates/releases/download/v1.3/vorhee-1.3.zip",
-  "sha256": "e4cf6c72930598a98ec2e23e9c5ddf15db84dcf6b1aed5f9467e26a8cc90b951",
-  "changelog": "New: Network Optimizer, Memory Boost, and Benchmark. Memory Boost now skips process trimming when a known anti-cheat is running.",
+  "sha256": "6a1e20fb58e0b5765791fff9346c2c0f7fe225bc1df65b17fbc15cf7c6156289",
+  "changelog": "New: Network Optimizer, Memory Boost, and Benchmark. Memory Boost now skips process trimming when a known anti-cheat is running. Fixed a bug where the update-check could run after the license-server version gate instead of before it, which could block older installs from ever seeing an update.",
   "forceUpdate": true
 }
