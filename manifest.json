@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "downloadUrl": "https://github.com/vorhee/vorhee-updates/releases/download/v1.1/vorhee-1.1.zip",
-  "sha256": "5a92dee44221502bd9527803ad69b30c0b9852a499b32b0e4ef487ab94239d4d",
-  "changelog": "Security and stability improvements. First live test of the auto-update system.",
+  "version": "1.2",
+  "downloadUrl": "https://github.com/vorhee/vorhee-updates/releases/download/v1.2/vorhee-1.2.zip",
+  "sha256": "39b3f2b5b9ec35f113436623a459599daaab10fb37b5af856fee266f75ea99a0",
+  "changelog": "Fixed a rare crash-on-launch hang. Rotated internal credentials. App now enforces single-instance.",
   "forceUpdate": true
 }
