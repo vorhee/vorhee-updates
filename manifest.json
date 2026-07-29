@@ -3,5 +3,5 @@
   "downloadUrl": "https://github.com/vorhee/vorhee-updates/releases/download/v1.1/vorhee-1.1.zip",
   "sha256": "5a92dee44221502bd9527803ad69b30c0b9852a499b32b0e4ef487ab94239d4d",
   "changelog": "Security and stability improvements. First live test of the auto-update system.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
